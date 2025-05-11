@@ -1,6 +1,6 @@
 # 📁 ServiceNow HRSD Use Cases Repository
 
-## 🧾 Overview
+## 📁 Overview
 
 This repository contains a collection of reusable and production-ready **ServiceNow HR Service Delivery (HRSD)** use cases. Each folder in the repository represents an independent and modular HR solution built for real-world business scenarios, designed to be easily imported into your ServiceNow instance.
 
